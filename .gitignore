@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Local development
+node_modules/
+.DS_Store
+
+# Temporary files
+test_resume.pdf
+test_scoring.py
+*.tmp
+
+# Artifacts
+.gemini/
+brain/
